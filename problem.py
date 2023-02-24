@@ -6,3 +6,6 @@ def add(a,b):
 
 def getFirst(s):
     return s[0]
+
+def getNumber(lst):
+    return lst[0]
