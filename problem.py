@@ -9,3 +9,6 @@ def getFirst(s):
 
 def getNumber(lst):
     return lst[0]
+
+def hello():
+    return 'Hello'
